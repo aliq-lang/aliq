@@ -1,8 +1,8 @@
 # ALIQ
 
 Abstract Language Integrated Query for different languages:
-- [ALIQ for .Net](https://github.com/sergey-shandar/aliq-dotnet)
-- [ALIQ for JavaScript and TypeScript](https://github.com/sergey-shandar/aliq-js)
+- [ALIQ for .Net](https://github.com/aliq-lang/aliq-dotnet)
+- [ALIQ for JavaScript and TypeScript](https://github.com/aliq-lang/aliq-js)
 
 ## Basic Operations
 
